@@ -126,6 +126,7 @@ This will allow you to fix vulnerabilities in your own forked version, then depl
 2) Deploy NodeGoat to Heroku by clicking the button below:
 
    [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNMadanu-L00179439%2FnodegoatOxSecurityTest.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FNMadanu-L00179439%2FnodegoatOxSecurityTest?ref=badge_shield)
 
    In the Create New App dialog, set the `MONGODB_URI` config var to the connection string of your MongoDB Atlas cluster.
    This can be viewed in the cluster's [connect dialog](https://docs.atlas.mongodb.com/tutorial/connect-to-your-cluster/#connect-to-your-atlas-cluster).
@@ -160,3 +161,6 @@ Here are the amazing [contributors](https://github.com/OWASP/NodeGoat/graphs/con
 ## License
 
 Code licensed under the [Apache License v2.0.](http://www.apache.org/licenses/LICENSE-2.0)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNMadanu-L00179439%2FnodegoatOxSecurityTest.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FNMadanu-L00179439%2FnodegoatOxSecurityTest?ref=badge_large)
